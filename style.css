@@ -48,3 +48,49 @@ hr{
   margin: 20px auto;
   border-bottom: none;
 }
+.content{
+
+}
+.content{
+  margin-bottom: 30px;
+}
+.left{
+width: 30%;
+float: left;
+}
+.right{
+width: 70%;
+float: right;
+}
+.cm-hr{
+  border: 1px solid black;
+  border-bottom: none;
+  width: 100%;
+  margin: 20px auto;
+}
+.edu-left{
+float: left;
+width: 45%;
+}
+.edu-right{
+float: right;
+width: 45%;
+}
+.foot{
+  background-color: black;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
+.foot a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+}
+.foot a:hover{
+  color: tomato;
+}
+.foot p{
+  color: white;
+  padding: 20px;
+}
